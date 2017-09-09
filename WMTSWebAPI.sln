@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTSWebAPI", "WMTSWebAPI\WMTSWebAPI.csproj", "{FE2E9728-9B2A-4EEE-B398-2E699741057D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTSWebAPI.Tests", "WMTSWebAPI.Tests\WMTSWebAPI.Tests.csproj", "{719488E1-5B83-44C2-AE18-FC42E1761919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2E9728-9B2A-4EEE-B398-2E699741057D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2E9728-9B2A-4EEE-B398-2E699741057D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2E9728-9B2A-4EEE-B398-2E699741057D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2E9728-9B2A-4EEE-B398-2E699741057D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719488E1-5B83-44C2-AE18-FC42E1761919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719488E1-5B83-44C2-AE18-FC42E1761919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719488E1-5B83-44C2-AE18-FC42E1761919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719488E1-5B83-44C2-AE18-FC42E1761919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18976C4C-3763-47A6-8C55-B0DA2897FF5B}
+	EndGlobalSection
+EndGlobal
