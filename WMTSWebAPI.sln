@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTSWebAPI", "WMTSWebAPI\WM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTSWebAPI.Tests", "WMTSWebAPI.Tests\WMTSWebAPI.Tests.csproj", "{719488E1-5B83-44C2-AE18-FC42E1761919}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD8E3C24-517A-40E9-85BB-AD5677CF5A95}"
+	ProjectSection(SolutionItems) = preProject
+		wmts_db.odb = wmts_db.odb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
